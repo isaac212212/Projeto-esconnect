@@ -13,4 +13,4 @@ Nesta primeira fase (Sprint 1), a equipe realizou a concepção do produto, o di
 Os documentos com o detalhamento do projeto e a divisão de tarefas da equipe estão disponíveis nos arquivos abaixo:
 
 * `Visão-Escopo.pdf` — Documento de Visão e Escopo
-* `Relatorio-Sprint1.pdf` — Relatório de Fechamento da Sprint 1 e Organização da Equipe
+* `Relatorio.Sprint1.pdf` — Relatório de Fechamento da Sprint 1 e Organização da Equipe
