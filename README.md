@@ -14,3 +14,13 @@ Os documentos com o detalhamento do projeto e a divisão de tarefas da equipe es
 
 * `1-Visao-Escopo.pdf` — Documento de Visão e Escopo
 * `2-Relatorio-Sprint1.pdf` — Relatório de Fechamento da Sprint 1 e Organização da Equipe
+* `3-Apresentacao-Sprint1.pdf` — Slides da Apresentação da Sprint 1
+
+---
+
+## 📂 Documentação da Sprint 2
+Arquivos referentes ao levantamento, detalhamento e validação dos requisitos do sistema:
+
+* `4-Especificacao-Requisitos.pdf` — Documento Completo de Requisitos Funcionais (RFs) e Não-Funcionais (RNFs)
+* `5-Relatorio-Sprint2.pdf` — Relatório de Fechamento da Sprint 2 e Divisão de Tarefas
+* `6-Apresentacao-Sprint2.pdf` — Slides da Apresentação da Sprint 2
